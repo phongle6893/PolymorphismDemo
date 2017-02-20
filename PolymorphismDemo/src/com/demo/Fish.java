@@ -6,6 +6,6 @@ public class Fish extends Animal {
 	@Override
 	public void introduce() {
 		System.out.println("hello, I'm Fish 123");
-		System.out.println("tk lol phong");
+		System.out.println("tk lol phong")
 	}
 }
